@@ -1,0 +1,20 @@
+{
+  "name": "deepspeech-nodejs_wav",
+  "version": "1.0.0",
+  "description": "Simple audio processing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "canvas": "^2.8.0",
+    "deepspeech": "0.8.0",
+    "dynamic-time-warping": "^1.0.0",
+    "hermetrics": "^1.0.0",
+    "node-wav": "0.0.2",
+    "sox-stream": "^2.0.3",
+    "util": "^0.11.1"
+  },
+  "license": "MIT"
+}
